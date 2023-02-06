@@ -1,5 +1,10 @@
-### Hi there 👋
+### Olá, eu sou Edmilson Lopes 👋
+```ruby
+class Programmer
 
+        def initialize()
+ ``` 
+ 
 <!--
 **Edmilson-Lopes/Edmilson-Lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
